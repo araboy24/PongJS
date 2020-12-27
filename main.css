@@ -1,0 +1,39 @@
+body { 
+    background-color:rgb(43, 162, 222);
+}
+
+.title {
+    text-align: center;
+}
+
+.levels {
+    margin: 0 auto; 
+    text-align: center;
+    width: inherit;
+    display: inline-block;
+}
+
+button {
+    float: left;
+   
+}
+
+.btn-grp {
+    text-align: center;
+}
+
+.can-con{
+    width: 100%;
+    text-align: center;
+}
+
+canvas { 
+    display: inline;
+}
+
+h1 {
+    background-color: lightgray;
+    margin-right: 35%;
+    margin-left: 35%;
+    border-radius: 5em;;
+}
