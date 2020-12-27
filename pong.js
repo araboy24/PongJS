@@ -16,7 +16,7 @@ const user = {
     score : 0
 }
 
-//create user paddle
+//create com paddle
 const com = {
     x : cvs.width - 15,
     y : cvs.height/2 - 100/2,
